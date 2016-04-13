@@ -1,2 +1,2 @@
-# FCC-JavaScript
-Free Code Camp JavaScript Challenges
+# JavaScript Algorithms
+JS Algorithms...not much more to say.
