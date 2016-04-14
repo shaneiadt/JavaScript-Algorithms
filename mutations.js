@@ -1,3 +1,7 @@
+/*
+Checks to see if all characters from both arrays match.
+*/
+
 function mutation(arr) {
     var arr1 = arr[0].toLowerCase().split(''), arr2 = arr[1].toLowerCase().split(''), truth = 0;
     for(var i=0;i<arr1.length;i++){
