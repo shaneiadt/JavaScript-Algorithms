@@ -1,5 +1,5 @@
 /*
-Checks to see if all characters from both arrays match. If they do return 'true', if not return 'false'.
+Checks to see if all characters from the first string at arr[0] are in the second string at arr[1]. If so return 'true' otherwise return 'false'.
 */
 
 function mutation(arr) {
