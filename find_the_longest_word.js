@@ -1,3 +1,7 @@
+/*
+Find the length of the longest word in a sentence & return that length.
+*/
+
 function findLongestWord(str) {
     var strArr = str.split(' ');
     var longestStr = '';
